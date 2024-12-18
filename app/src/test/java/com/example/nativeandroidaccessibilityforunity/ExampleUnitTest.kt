@@ -1,4 +1,4 @@
-package com.example.texturehelper
+package com.example.nativeandroidaccessibilityforunity
 
 import org.junit.Test
 

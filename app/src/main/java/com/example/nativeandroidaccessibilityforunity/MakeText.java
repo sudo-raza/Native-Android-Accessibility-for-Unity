@@ -1,11 +1,10 @@
-package com.example.texturehelper;
+package com.example.nativeandroidaccessibilityforunity;
 
 import android.app.Activity;
 import android.graphics.Color;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.FrameLayout;
-import android.graphics.Color;
 import android.util.TypedValue;
 public class MakeText {
     private TextView textView;

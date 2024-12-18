@@ -1,5 +1,5 @@
 
-package com.example.texturehelper;
+package com.example.nativeandroidaccessibilityforunity;
 
 import android.app.Activity;
 import android.content.Context;

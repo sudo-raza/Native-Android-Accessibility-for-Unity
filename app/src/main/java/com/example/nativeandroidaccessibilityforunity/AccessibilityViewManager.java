@@ -1,4 +1,4 @@
-package com.example.texturehelper;
+package com.example.nativeandroidaccessibilityforunity;
 
 import android.view.View;
 import java.util.HashMap;
